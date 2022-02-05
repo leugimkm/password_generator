@@ -1,5 +1,5 @@
 import random
-from flask import Flask, render_template
+from flask import Flask, render_template, url_for, redirect
 from string import ascii_letters, digits
 
 app = Flask(__name__)
