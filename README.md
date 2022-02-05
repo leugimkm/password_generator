@@ -1,2 +1,3 @@
-# password_generator
-Simple password generator using Flask
+# Simple Password Generator
+
+Simple password generator using Flask framework
